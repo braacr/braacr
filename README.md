@@ -7,7 +7,7 @@
 <h2 align="center">About Me</h2>
 
 - 🎮 Passionate about game development and programming.  
-- 💻 Currently working on **SurvivalGames** and **DemonSlayerBot**.  
+- 💻 Currently working on **Small Projects** and **DemonSlayerBot**.  
 - 📚 Always exploring new technologies and improving my skills.  
 - 🌍 Languages: German (native), English (fluent).
 
@@ -25,10 +25,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="Unreal Engine" />
 </div>
-
-<h2 align="center">📫 Let's Connect!</h2>
-<p align="center">
-  <a href="https://github.com/YourUsername"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://your-discord-link.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-</p>

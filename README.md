@@ -7,7 +7,7 @@ I'm Bora, a 20-year-old developer from Austria. I love creating innovative solut
 - 🎮 Passionate about game development and programming.  
 - 💻 Currently working on **Small Projects** and **DemonSlayerBot**.  
 - 📚 Always exploring new technologies and improving my skills.  
-- 🌍 Languages: German (native), English (fluent).
+- 🌍 Languages: German (native), English (fluent), Turkish (fluent).
 
 <h2 align="center">My Tech Stack</h2>
 <div align="center">

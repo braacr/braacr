@@ -1,8 +1,6 @@
 <h1 align="center">Hey there! 👋</h1>
 
-<p align="center">
-  I'm Bora, a 20-year-old developer from Austria. I love creating innovative solutions, whether it's Minecraft plugins, Discord bots, or other projects. Coding is my passion, and I'm constantly learning new things!
-</p>
+I'm Bora, a 20-year-old developer from Austria. I love creating innovative solutions, whether it's Minecraft plugins, Discord bots, or other projects. Coding is my passion, and I'm constantly learning new things!
 
 <h2 align="center">About Me</h2>
 

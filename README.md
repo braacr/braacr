@@ -1,25 +1,27 @@
-<h1 align="center">Hey there! 👋</h1>
+# Hi, I'm Bora 👋
 
-I'm Bora, a 21-year-old developer from Austria. I love creating innovative solutions, whether it's Minecraft plugins, Discord bots, or other projects. Coding is my passion, and I'm constantly learning new things!
+I ship gamified Discord experiences, slick iOS apps, and dopamine-fueled UX.
 
-<h2 align="center">About Me</h2>
+## What I'm building
+- 🗡️ **DemonSlayerBot** - Large-scale Discord RPG (clusters, premium tiers, live events)
+- 👁️ **LensBuddy (iOS)** - Contact-lens tracker with smart intervals + stats
+- 🧠 **BudgetBuddy (iOS)** - Dopamine finance & savings goal (WIP)
+- 🎮 **Risky Ranch (Roblox)** - Farm Tycoon prototype with events (WIP)
 
-- 🎮 Passionate about game development and programming.  
-- 💻 Currently working on **Small Projects** and **DemonSlayerBot**.  
-- 📚 Always exploring new technologies and improving my skills.  
-- 🌍 Languages: German (fluent), English (fluent), Turkish (native).
+## Highlights
+- 15k+ community users (cumulative across bots)
+- Clean modular JS backends, SwiftUI frontends
+- Obsessed with UI polish and DX
 
-<h2 align="center">My Tech Stack</h2>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="Discord.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="Unreal Engine" />
-</div>
+## Tech I use
+`JavaScript` `Node.js` `Discord.js` `SwiftUI` `Unity (C#)` `MariaDB` `Trello/Boards` `Pino` `Vitest/Jest` `GitHub Actions` `Docker (basic)`
+
+## Selected Projects
+- **TicTacToe** - Tiny game for fun ➜ _JS, DOM_
+- **Calculator** - Learning build ➜ _JS_
+- **PasswordGenerator** - Learning build ➜ _JS_
+- **StopWatch** - Learning build ➜ _JS_
+
+## Connect
+- 📨 Open to collabs & PRs on public repos
+- ⭐ Stars & issues welcome

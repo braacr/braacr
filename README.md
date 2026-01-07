@@ -1,27 +1,28 @@
 # Hi, I'm Bora 👋
 
-I ship gamified Discord experiences, slick iOS apps, and dopamine-fueled UX.
+I build game-driven platforms, interactive web experiences, and polished user-facing products.
+Focus: scalability, clean architecture, and UX that keeps users engaged.
 
-## What I'm building
-- 🗡️ **DemonSlayerBot** - Large-scale Discord RPG (clusters, premium tiers, live events)
-- 👁️ **LensBuddy (iOS)** - Contact-lens tracker with smart intervals + stats
-- 🧠 **BudgetBuddy (iOS)** - Dopamine finance & savings goal (WIP)
-- 🎮 **Risky Ranch (Roblox)** - Farm Tycoon prototype with events (WIP)
+## Active Projects
+- 🗡️ **DemonSlayerBot** — Large-scale Discord RPG with progression systems, live events, and premium features
+- 🧭 **DSB Dashboard** — Web-based admin panel for real-time management and monitoring of DemonSlayerBot
+- ☁️ **FileBuddy** — Self-hosted cloud platform for file storage, sharing, and management *(in development)*
+
+## Paused / On Hold
+- 👁️ **LensBuddy (iOS)** — Contact-lens tracker with smart intervals and usage statistics
 
 ## Highlights
-- 15k+ community users (cumulative across bots)
-- Clean modular JS backends, SwiftUI frontends
-- Obsessed with UI polish and DX
+- 40k+ registered users on DemonSlayerBot
+- Experience with scalable, stateful game systems
+- Clean modular backends and structured frontend architectures
+- Strong focus on UI polish, performance, and maintainability
 
-## Tech I use
-`JavaScript` `Node.js` `Discord.js` `SwiftUI` `Unity (C#)` `MariaDB` `Trello/Boards` `Pino` `Vitest/Jest` `GitHub Actions` `Docker (basic)`
+## Tech Stack
+`JavaScript` `Node.js` `Discord.js` `SwiftUI` `MariaDB`  
+`Docker (basic)` `GitHub Actions` `Vitest / Jest`  
+`Pino` `REST APIs` `WebSockets`
 
 ## Selected Projects
-- **TicTacToe** - Tiny game for fun ➜ _JS, DOM_
-- **Calculator** - Learning build ➜ _JS_
-- **PasswordGenerator** - Learning build ➜ _JS_
-- **StopWatch** - Learning build ➜ _JS_
+- **ValentinesSurprise** — Interactive themed web experience ➜ _HTML, CSS, JS_
+- **TicTacToe** — Lightweight browser game ➜ _JavaScript, DOM_
 
-## Connect
-- 📨 Open to collabs & PRs on public repos
-- ⭐ Stars & issues welcome
